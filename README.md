@@ -53,4 +53,4 @@
 Languages    : C++, Python, JavaScript, SQL
 Frontend     : HTML, CSS, JavaScript, CSS
 Database     : MySQL
-Tools & Dev  : Git, GitHub, VS Code, Postman, Figma, Linux
+Tools & Dev  : Git, GitHub, VS Code, Figma
