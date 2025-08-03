@@ -38,7 +38,7 @@
 
 - 📝 My **IEEE research paper** was accepted at multiple **international conferences**.
 - 🌍 Ranked in the **top 10% globally** in the **Prosperity Algorithmic Trading Challenge** (📊 **1271 / 12000+ teams**).
-- 💼 Completed a **Work From Home internship** at **Prodigy Infotech** as a **Web Development Intern**, building:
+- 💼 Completed a **WFH internship** at **Prodigy Infotech** as a **Web Development Intern**, building:
   - 🎮 [Tic Tac Toe]
   - 🌦️ [Weather App]
   - ⏱️ [Stopwatch]
